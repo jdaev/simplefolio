@@ -18,8 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'my_photo.jpg',
-  paragraphOne: 'I\'m Javed, a software developer currently liviing in Montreal, Canada. When it comes to code I\'ve been tinkering with tech from a young age.',
-  paragraphTwo: 'I started my first job at Edapt during the last semester of my undegrad. I was the Lead Developer there until I left to pursue higher studies in Canada.',
+  paragraphOne: 'I\'m Javed, a software developer currently living in Montreal, Canada. When it comes to code I\'ve been tinkering with tech from a young age.',
+  paragraphTwo: 'I started my first job at Edapt during the last semester of my undergrad. I was the Lead Developer there until I left to pursue higher studies in Canada.',
   paragraphThree: 'I currently do freelance work while I\'m studying Game Development. I\'m an expert in Flutter, and am adequately skilled with the Unity Game Engine. I also know basic web development, and have dabbled in various different technologies. ',
   resume: 'https://drive.google.com/file/d/17KoJY-eka7bt50qhhCcGy0MdPi617V48/view?usp=sharing', // if no resume, the button will not show up
 };
