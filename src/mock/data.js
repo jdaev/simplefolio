@@ -71,15 +71,15 @@ export const projectsData = [
     url: 'https://gitlab.com/javarc/inflo',
     repo: 'https://gitlab.com/javarc/inflo', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'projects/store_log_banner.jpg',
-    title: 'Store Log',
-    info: 'A dektop application made for managing a small store. ',
-    info2: 'Functions include billing, managing inventory and reports. Made with Python and Qt.',
-    url: 'https://gitlab.com/javarc/IET-Store-Log',
-    repo: 'https://gitlab.com/javarc/IET-Store-Log', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'projects/store_log_banner.jpg',
+  //   title: 'Store Log',
+  //   info: 'A dektop application made for managing a small store. ',
+  //   info2: 'Functions include billing, managing inventory and reports. Made with Python and Qt.',
+  //   url: 'https://gitlab.com/javarc/IET-Store-Log',
+  //   repo: 'https://gitlab.com/javarc/IET-Store-Log', // if no repo, the button will not show up
+  // },
 ];
 
 // CONTACT DATA
