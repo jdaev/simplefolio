@@ -12,7 +12,7 @@ export const heroData = {
   title: "Hi, I'm",
   name: 'Javed',
   subtitle: 'I make web apps, mobile apps and games.',
-  cta: 'Flutter & Unity Developer',
+  cta: 'My Work',
 };
 
 // ABOUT DATA
