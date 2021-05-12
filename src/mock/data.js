@@ -24,7 +24,8 @@ export const aboutData = {
     'I primarily specialize in Flutter and Unity, however I am a quick learner and can pick up new technologies easily.',
   paragraphThree:
     "Right now I'm working on a blockchain based permanent file storage solution, and also making games in my free time",
-  resume: 'https://drive.google.com/file/d/17KoJY-eka7bt50qhhCcGy0MdPi617V48/view?usp=sharing', // if no resume, the button will not show up
+  resume:
+    'https://docs.google.com/document/d/1wI8e3_IAbwwUf2eQmBHvHA2FshfkAgLhTpqpBiF3MPk/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
